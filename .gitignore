@@ -1,0 +1,12 @@
+eqgnn/data/
+*.dot
+wandb/
+outputs/
+qm9/temp/
+__pycache__/
+*.pyc
+*.txt
+*.npy
+*.pth
+*.png
+*.jpg
