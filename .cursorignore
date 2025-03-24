@@ -1,7 +1,0 @@
-# Add directories or file patterns to ignore during indexing (e.g. foo/ or *.csv)
-*__pycache__*
-**/__init__.py
-*wandb*
-*outputs*
-qm9/temp/*
-eqgnn/data/*
